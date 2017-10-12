@@ -1,0 +1,8 @@
+var a=3;
+var b=a-4;
+console.log(b);
+
+console.log('module 1 is done')
+console.log('module 2 is done')
+console.log('module 3 is done')
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1vZHVsZTEuanMiLCJtb2R1bGUyLmpzIiwibW9kdWxlMy5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FDSkE7QUNBQSIsImZpbGUiOiJidWlsZC5qcyIsInNvdXJjZXNDb250ZW50IjpbInZhciBhPTM7XHJcbnZhciBiPWEtNDtcclxuY29uc29sZS5sb2coYik7XHJcblxyXG5jb25zb2xlLmxvZygnbW9kdWxlIDEgaXMgZG9uZScpIiwiY29uc29sZS5sb2coJ21vZHVsZSAyIGlzIGRvbmUnKSIsImNvbnNvbGUubG9nKCdtb2R1bGUgMyBpcyBkb25lJykiXX0=
