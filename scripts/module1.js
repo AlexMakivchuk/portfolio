@@ -1,4 +1,4 @@
-var a=3;
+var a = 3;
 var b=a-4;
 console.log(b);
 

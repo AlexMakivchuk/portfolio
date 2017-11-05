@@ -20,8 +20,11 @@ var gulp = require('gulp'),
 };
 
 gulp.task('clean',function() {
-	del.sync([paths.jsdir,paths.cssdir])
-})
+	del.sync([
+        paths.jsdir, 
+        paths.cssdir
+        ]);
+});
 
 gulp.task('sass:dev', function () {
     return gulp.src(paths.scss)

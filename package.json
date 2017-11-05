@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/AlexMakivchuk/portfolio#readme",
   "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
     "browser-sync": "^2.18.13",
     "del": "^3.0.0",
     "gulp": "^3.9.1",
@@ -25,6 +26,7 @@
     "gulp-size": "^2.1.0",
     "gulp-sourcemaps": "^2.6.1",
     "gulp-uglify": "^3.0.0"
+    "gulp-watch": "^4.3.10",
   },
   "dependencies": {
     "browser-sync": "^2.18.13",
@@ -35,5 +37,6 @@
     "gulp-size": "^2.1.0",
     "gulp-sourcemaps": "^2.6.1",
     "gulp-uglify": "^3.0.0"
+
   }
 }
