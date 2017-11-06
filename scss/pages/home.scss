@@ -95,9 +95,17 @@ section {
   .picture {
     width: 16.5rem;
     height: 16.5rem;
-    margin: 0 auto;
+    margin: 3rem auto;
   }
-
+  .icon-html {
+    background: url("../../img/bg/html-5.png") no-repeat center center;
+  }
+  .icon-css{
+    background: url("../../img/bg/css3.png") no-repeat center center;
+  }
+  .icon-js{
+    background: url("../../img/bg/js.png") no-repeat center center;
+  }
   .service-description {
     font-size: 1.6rem;
     color: $gray;
